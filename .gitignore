@@ -1,0 +1,29 @@
+# Application data
+cache/
+crashes/
+conversations/
+presence/
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db

@@ -1,0 +1,35 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\README.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\.github\workflows\ci.yml
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\pubspec.yaml
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\main.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\core\constants.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\core\localization.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\data\local_database.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\data\models\report_model.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\services\inference_service.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\services\location_service.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\services\privacy_blur_service.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\citizen_app\lib\services\sync_worker.dart
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\dashboard\index.html
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps\dashboard\package.json
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\ARCHITECTURE.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\PRD.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\ROADMAP.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\RULES.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\SECURITY.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\docs\TRD.md
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\dataset.py
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\evaluate.py
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\quantize.py
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\requirements.txt
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\train.py
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\__pycache__\dataset.cpython-313.pyc
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\scripts\osm_ingest.py
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase\migrations\20261029000000_initial_schema.sql
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase\migrations\20261029000001_seed_pilot_data.sql
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase\migrations\20261029000002_osm_context_features.sql
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase\tests\schema_and_rls_test.sql
+C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\tests\test_civicsync_core.py

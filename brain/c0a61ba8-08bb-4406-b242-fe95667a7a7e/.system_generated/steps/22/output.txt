@@ -1,0 +1,21 @@
+Command exited with code 1.
+
+Command output:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:87
++ ... :TMP = $env:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; git --versi ...
++                                                               ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Python 3.13.16
+v24.22.0
+flutter : The term 'flutter' is not recognized as the name of a cmdlet, function, script file, or operable program. 
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:136
++ ... ATA; git --version; python --version; node --version; flutter --versi ...
++                                                           ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (flutter:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

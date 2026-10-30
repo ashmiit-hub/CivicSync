@@ -1,0 +1,22 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\ashmi\OneDrive\Desktop\RYIC
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a---l        10/29/2026     19:36        2819920 ARCHITECTURE.pdf                                                     
+-a---l        10/29/2026     19:37        3942818 DESIGN.pdf                                                           
+-a---l        10/29/2026     19:37        4561589 MEMORY.pdf                                                           
+-a---l        10/29/2026     19:45        2387230 PHASES.pdf                                                           
+-a---l        10/29/2026     19:37        3132017 PRD.pdf                                                              
+-a---l        10/29/2026     19:45        2028016 ROADMAP.pdf                                                          
+-a---l        10/29/2026     19:38        3842233 RULES.pdf                                                            
+-a---l        10/29/2026     19:38        4188783 SECURITY.pdf                                                         
+-a---l        10/29/2026     19:39        4231265 TOOLING.pdf                                                          
+-a---l        10/29/2026     19:39        4147125 TRD.pdf                                                              
+
+

@@ -1,0 +1,19 @@
+Command exited with code 0.
+
+Command output:
+npm : File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system. For 
+more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:87
++ ... :TMP = $env:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; npm --versi ...
++                                                               ~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+pnpm : The term 'pnpm' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:102
++ ... ; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; npm --version; pnpm --versi ...
++                                                              ~~~~
+    + CategoryInfo          : ObjectNotFound: (pnpm:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+pip 26.2.1 from C:\Program Files\Python313\Lib\site-packages\pip (python 3.13)

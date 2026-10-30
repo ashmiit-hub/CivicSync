@@ -1,0 +1,19 @@
+Command exited with code 1.
+
+Command output:
+Get-ChildItem : Access is denied
+At line:1 char:87
++ ... CALAPPDATA; Get-ChildItem -Path 'c:\Users\ashmi\OneDrive\Desktop\RYIC ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\Users\ashmi\OneDrive\Desktop\RYIC:String) [Get-ChildItem], Unautho 
+   rizedAccessException
+    + FullyQualifiedErrorId : ItemExistsUnauthorizedAccessError,Microsoft.PowerShell.Commands.GetChildItemCommand
+ 
+Get-ChildItem : Cannot find path 'C:\Users\ashmi\OneDrive\Desktop\RYIC' because it does not exist.
+At line:1 char:87
++ ... CALAPPDATA; Get-ChildItem -Path 'c:\Users\ashmi\OneDrive\Desktop\RYIC ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\ashmi\OneDrive\Desktop\RYIC:String) [Get-ChildItem], ItemNotFo 
+   undException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetChildItemCommand
+ 

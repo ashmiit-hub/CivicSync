@@ -1,0 +1,28 @@
+Command exited with code 1.
+
+Command output:
+...FF..
+======================================================================
+FAIL: test_worked_example_2 (__main__.TestCivicSyncCore.test_worked_example_2)
+Case 2: Medium waterlogging, residential lane, 0.70 sure, 1 reporter -> Score 53, Medium
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\tests\test_civicsync_core.py", line 155, in test_worked_example_2
+    self.assertEqual(score, 53)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+AssertionError: 52 != 53
+
+======================================================================
+FAIL: test_worked_example_3 (__main__.TestCivicSyncCore.test_worked_example_3)
+Case 3: Same waterlogging, 4 distinct reporters -> Score 62, High
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\tests\test_civicsync_core.py", line 161, in test_worked_example_3
+    self.assertEqual(score, 62)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+AssertionError: 61 != 62
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.006s
+
+FAILED (failures=2)

@@ -1,0 +1,28 @@
+Command exited with code 1.
+
+Command output:
+============================================================
+CivicSync Model Verification & Benchmark
+============================================================
+Top-1 Accuracy:     89.00% (Target: >= 80.0%)
+Macro-F1 Score:     0.890   (Target: >= 0.750)
+p95 Latency:        50.1 ms  (Target: < 150.0 ms)
+------------------------------------------------------------
+Per-Class F1 Breakdown:
+  - pothole         : 0.883
+  - open_drain      : 0.889
+  - broken_road     : 0.903
+  - waterlogging    : 0.872
+  - none_of_these   : 0.903
+------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\evaluate.py", line 78, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\ml\evaluate.py", line 72, in main
+    print("\u2705 Gate Passed: Model qualifies for M3 / M5 pilot release.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>

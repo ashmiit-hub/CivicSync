@@ -1,0 +1,18 @@
+Command exited with code 0.
+
+Command output:
+============================================================
+CivicSync Model Verification & Benchmark
+============================================================
+Top-1 Accuracy:     89.50% (Target: >= 80.0%)
+Macro-F1 Score:     0.892   (Target: >= 0.750)
+p95 Latency:        49.8 ms  (Target: < 150.0 ms)
+------------------------------------------------------------
+Per-Class F1 Breakdown:
+  - pothole         : 0.945
+  - open_drain      : 0.857
+  - broken_road     : 0.889
+  - waterlogging    : 0.892
+  - none_of_these   : 0.877
+------------------------------------------------------------
+[PASS] Gate Passed: Model qualifies for M3 / M5 pilot release.

@@ -1,0 +1,40 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\apps
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        10/29/2026     19:57                citizen_app                                                          
+d-----        10/29/2026     19:57                dashboard                                                            
+
+
+    Directory: C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        10/29/2026     19:57                migrations                                                           
+d-----        10/29/2026     19:57                tests                                                                
+
+
+    Directory: C:\Users\ashmi\.gemini\antigravity\scratch\civicsync
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        10/29/2026     19:57                ml                                                                   
+d-----        10/29/2026     19:57                docs                                                                 
+
+
+    Directory: C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\.github
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        10/29/2026     19:57                workflows                                                            
+
+

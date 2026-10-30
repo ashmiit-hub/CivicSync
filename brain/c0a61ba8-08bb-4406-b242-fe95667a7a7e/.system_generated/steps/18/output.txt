@@ -1,0 +1,15 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\ashmi\OneDrive\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+dar--l        10/27/2026     16:11                DataSleuth                                                           
+dar--l        10/18/2026     15:56                machine learning                                                     
+d----l        10/29/2026     19:45                RYIC                                                                 
+
+

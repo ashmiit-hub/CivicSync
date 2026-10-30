@@ -1,0 +1,11 @@
+Command exited with code 1.
+
+Command output:
+Traceback (most recent call last):
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\scripts\osm_ingest.py", line 96, in <module>
+    generate_sample_sql()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\scripts\osm_ingest.py", line 91, in generate_sample_sql
+    with open(output_path, "w", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'supabase/migrations/20261029000002_osm_context_features.sql'

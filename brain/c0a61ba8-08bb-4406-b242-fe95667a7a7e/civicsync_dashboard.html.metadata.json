@@ -1,0 +1,5 @@
+{
+  "summary": "CivicSync Enterprise Municipal Operations Dashboard:\n- Multi-view navigation tabs (Triage Queue, GIS Density Map, Duplicate Review Hub, SLA Escalations, City Analytics).\n- Live KPI Metrics bar (Critical immediate dispatch, High priority, Corroborated reports, L1 Overdue).\n- Fast Lane 1-click batch verification ribbon.\n- Slide-over Ticket Inspection Drawer with explainable scoring breakdown, on-device privacy blur preview, before/after resolution validation, and audit timeline.\n- Full-screen GIS Leaflet Map with ST_SnapToGrid 250m density cells and ward overlays.\n- Side-by-side Duplicate Review Workbench (25m–50m distance delta).\n- SLA & Working Hours Escalation Center (Mon-Sat 10:00-17:00 IST).\n- Executive City Analytics charts (hazard class distribution and resolution velocity).\n- Role-based switcher (Ward Officer, Crew Lead, Zonal Engineer, City Admin) and CSV export.",
+  "updatedAt": "2026-10-29T15:33:47.321374500Z",
+  "userFacing": true
+}

@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+[OK] Ingestion SQL written to: C:\Users\ashmi\.gemini\antigravity\scratch\civicsync\supabase\migrations\20261029000002_osm_context_features.sql
